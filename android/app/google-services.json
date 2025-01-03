@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826872773454",
+    "project_id": "linkedinclone-3ad50",
+    "storage_bucket": "linkedinclone-3ad50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826872773454:android:b8c86f1323b6834cb87c1f",
+        "android_client_info": {
+          "package_name": "com.company.LinkedInClone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwCN_6OURiGuCgYytonhYiKCX0oHefWik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
