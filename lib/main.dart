@@ -8,7 +8,7 @@ void main() async {
     await Firebase.initializeApp(
       // Add these options for Android
       options: const FirebaseOptions(
-        apiKey: 'AIzaSyDwCN_6OURiGuCgYytonhYiKCX0oHefWik',
+        const apiKey = dotenv.env['GOOGLE_API_KEY'];
         appId: '1:826872773454:android:b8c86f1323b6834cb87c1f',
         messagingSenderId: '826872773454',
         projectId: 'linkedinclone-3ad50',
